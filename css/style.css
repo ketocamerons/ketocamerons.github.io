@@ -180,7 +180,7 @@ em {
 }
 /* layout */
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: Josefin Sans, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -605,7 +605,7 @@ body {
 .post .post-content p code {
   margin: 0 5px;
   padding: 0 5px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: Josefin Sans, sans-serif;
   color: #4d4d4c;
   background: #eee;
   font-size: 0.95em;
@@ -651,7 +651,7 @@ body {
 .post .post-content ol code {
   margin: 0 5px;
   padding: 0 5px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: Josefin Sans, sans-serif;
   color: #4d4d4c;
   background: #eee;
   font-size: 0.95em;
