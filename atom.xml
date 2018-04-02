@@ -48,13 +48,13 @@
       <category term="Desserts" scheme="http://ketocamerons.github.io/categories/Desserts/"/>
     
     
-      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
-    
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
       <category term="Cocoa" scheme="http://ketocamerons.github.io/tags/Cocoa/"/>
+    
+      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
+    
+      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
   </entry>
   
@@ -76,11 +76,11 @@
       <category term="Cakes" scheme="http://ketocamerons.github.io/categories/Cakes/"/>
     
     
+      <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
+    
       <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
-    
-      <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
       <category term="Cream Cheese" scheme="http://ketocamerons.github.io/tags/Cream-Cheese/"/>
     
@@ -164,13 +164,13 @@
       <category term="Christmas Recipes" scheme="http://ketocamerons.github.io/categories/Christmas-Recipes/"/>
     
     
-      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
+      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
     
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
-      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
     
-      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
+      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
     
       <category term="Cream" scheme="http://ketocamerons.github.io/tags/Cream/"/>
     
@@ -234,9 +234,9 @@
       <category term="Drinks" scheme="http://ketocamerons.github.io/categories/Drinks/"/>
     
     
-      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
-    
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
+      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
     
       <category term="Cream" scheme="http://ketocamerons.github.io/tags/Cream/"/>
     
@@ -262,13 +262,13 @@
       <category term="Christmas Recipes" scheme="http://ketocamerons.github.io/categories/Christmas-Recipes/"/>
     
     
-      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
-    
-      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
-    
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
+      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+    
+      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
     
       <category term="Ginger" scheme="http://ketocamerons.github.io/tags/Ginger/"/>
     
@@ -320,9 +320,9 @@
       <category term="Meals" scheme="http://ketocamerons.github.io/categories/Meals/"/>
     
     
-      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
-    
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
+    
+      <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
     
       <category term="Chicken" scheme="http://ketocamerons.github.io/tags/Chicken/"/>
     
@@ -358,6 +358,10 @@
       <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
     
     
+      <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
+    
+      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
       <category term="Flax Meal" scheme="http://ketocamerons.github.io/tags/Flax-Meal/"/>
     
       <category term="Pumpkin Seeds" scheme="http://ketocamerons.github.io/tags/Pumpkin-Seeds/"/>
@@ -367,10 +371,6 @@
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
     
       <category term="Cinnamon" scheme="http://ketocamerons.github.io/tags/Cinnamon/"/>
-    
-      <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
-    
-      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
   </entry>
   
@@ -392,13 +392,13 @@
       <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
     
     
+      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
       <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
-    
-      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
       <category term="Coconut Oil" scheme="http://ketocamerons.github.io/tags/Coconut-Oil/"/>
     
@@ -424,11 +424,11 @@
       <category term="Christmas Recipes" scheme="http://ketocamerons.github.io/categories/Christmas-Recipes/"/>
     
     
-      <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
+      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
     
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
-      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
+      <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
       <category term="Coconut Oil" scheme="http://ketocamerons.github.io/tags/Coconut-Oil/"/>
     
@@ -452,11 +452,11 @@
       <category term="Breads" scheme="http://ketocamerons.github.io/categories/Breads/"/>
     
     
-      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
-    
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
+      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
     
       <category term="Cheese" scheme="http://ketocamerons.github.io/tags/Cheese/"/>
     
@@ -475,9 +475,9 @@
     
     </summary>
     
-      <category term="Sides" scheme="http://ketocamerons.github.io/categories/Sides/"/>
-    
       <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
+    
+      <category term="Sides" scheme="http://ketocamerons.github.io/categories/Sides/"/>
     
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
@@ -506,11 +506,11 @@
       <category term="Breads" scheme="http://ketocamerons.github.io/categories/Breads/"/>
     
     
+      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
+    
       <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
-    
-      <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
   </entry>
   
@@ -566,9 +566,9 @@
     
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
       <category term="Cocoa" scheme="http://ketocamerons.github.io/tags/Cocoa/"/>
+    
+      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
       <category term="Coconut Milk" scheme="http://ketocamerons.github.io/tags/Coconut-Milk/"/>
     
@@ -592,13 +592,13 @@
       <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
     
     
-      <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
+      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
     
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
-      <category term="Almond Flour" scheme="http://ketocamerons.github.io/tags/Almond-Flour/"/>
+      <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
       <category term="Cocoa" scheme="http://ketocamerons.github.io/tags/Cocoa/"/>
     
