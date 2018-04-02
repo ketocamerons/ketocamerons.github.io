@@ -605,7 +605,7 @@ body {
 .post .post-content p code {
   margin: 0 5px;
   padding: 0 5px;
-  font-family: Source Code Pro, Monaco, Menlo, Consolas, monospace;
+  font-family: 'Josefin Sans', sans-serif;
   color: #4d4d4c;
   background: #eee;
   font-size: 0.95em;
