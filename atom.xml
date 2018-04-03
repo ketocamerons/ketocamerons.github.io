@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ketocamerons.github.io/"/>
-  <updated>2018-04-03T09:59:45.756Z</updated>
+  <updated>2018-04-03T10:15:59.196Z</updated>
   <id>http://ketocamerons.github.io/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Minestrone</title>
+    <link href="http://ketocamerons.github.io/2018/04/03/Minestrone/"/>
+    <id>http://ketocamerons.github.io/2018/04/03/Minestrone/</id>
+    <published>2018-04-03T10:03:11.000Z</published>
+    <updated>2018-04-03T10:15:59.196Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;We didn’t make many soups growing up in steamy North Queensland, but this is definitely a new favourite. I’ve tweaked it a bit, but the original recipe is from The Cook’s Book. &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Meals" scheme="http://ketocamerons.github.io/categories/Meals/"/>
+    
+      <category term="Sides" scheme="http://ketocamerons.github.io/categories/Sides/"/>
+    
+      <category term="Soups" scheme="http://ketocamerons.github.io/categories/Soups/"/>
+    
+      <category term="Vegetables" scheme="http://ketocamerons.github.io/categories/Vegetables/"/>
+    
+      <category term="Slow Cooker" scheme="http://ketocamerons.github.io/categories/Slow-Cooker/"/>
+    
+    
+      <category term="Cauliflower" scheme="http://ketocamerons.github.io/tags/Cauliflower/"/>
+    
+      <category term="Ham" scheme="http://ketocamerons.github.io/tags/Ham/"/>
+    
+      <category term="Onion" scheme="http://ketocamerons.github.io/tags/Onion/"/>
+    
+      <category term="Leek" scheme="http://ketocamerons.github.io/tags/Leek/"/>
+    
+      <category term="Celery" scheme="http://ketocamerons.github.io/tags/Celery/"/>
+    
+      <category term="Carrot" scheme="http://ketocamerons.github.io/tags/Carrot/"/>
+    
+      <category term="Bacon" scheme="http://ketocamerons.github.io/tags/Bacon/"/>
+    
+      <category term="Cabbage" scheme="http://ketocamerons.github.io/tags/Cabbage/"/>
+    
+      <category term="Beans" scheme="http://ketocamerons.github.io/tags/Beans/"/>
+    
+      <category term="Tomato" scheme="http://ketocamerons.github.io/tags/Tomato/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Slowcooker Curry Meatballs</title>
     <link href="http://ketocamerons.github.io/2018/04/03/Slowcooker-Curry-Meatballs/"/>
     <id>http://ketocamerons.github.io/2018/04/03/Slowcooker-Curry-Meatballs/</id>
     <published>2018-04-03T09:53:20.000Z</published>
-    <updated>2018-04-03T09:59:45.756Z</updated>
+    <updated>2018-04-03T10:01:27.606Z</updated>
     
     <summary type="html">
     
@@ -90,9 +136,9 @@
     
       <category term="Cocoa" scheme="http://ketocamerons.github.io/tags/Cocoa/"/>
     
-      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
-    
       <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
+    
+      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
     
   </entry>
   
@@ -116,11 +162,11 @@
     
       <category term="Butter" scheme="http://ketocamerons.github.io/tags/Butter/"/>
     
-      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
-    
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
     
       <category term="Cream Cheese" scheme="http://ketocamerons.github.io/tags/Cream-Cheese/"/>
+    
+      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
     
       <category term="Lemon" scheme="http://ketocamerons.github.io/tags/Lemon/"/>
     
@@ -206,11 +252,11 @@
     
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
-      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
-    
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
     
       <category term="Cream" scheme="http://ketocamerons.github.io/tags/Cream/"/>
+    
+      <category term="Coconut" scheme="http://ketocamerons.github.io/tags/Coconut/"/>
     
       <category term="Coconut Oil" scheme="http://ketocamerons.github.io/tags/Coconut-Oil/"/>
     
@@ -434,9 +480,9 @@
     
       <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
     
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+    
+      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
       <category term="Coconut Oil" scheme="http://ketocamerons.github.io/tags/Coconut-Oil/"/>
     
@@ -513,9 +559,9 @@
     
     </summary>
     
-      <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
-    
       <category term="Sides" scheme="http://ketocamerons.github.io/categories/Sides/"/>
+    
+      <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
     
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
@@ -546,9 +592,9 @@
     
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+    
+      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
   </entry>
   
@@ -572,9 +618,9 @@
       <category term="Vegetables" scheme="http://ketocamerons.github.io/categories/Vegetables/"/>
     
     
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
       <category term="Chicken" scheme="http://ketocamerons.github.io/tags/Chicken/"/>
+    
+      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
     
       <category term="Sundried Tomatoes" scheme="http://ketocamerons.github.io/tags/Sundried-Tomatoes/"/>
     
@@ -583,32 +629,6 @@
       <category term="Tomatoes" scheme="http://ketocamerons.github.io/tags/Tomatoes/"/>
     
       <category term="Asparagus" scheme="http://ketocamerons.github.io/tags/Asparagus/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Chocolate Coconut Cream Mousse</title>
-    <link href="http://ketocamerons.github.io/2017/12/14/Chocolate-Coconut-Cream-Mousse/"/>
-    <id>http://ketocamerons.github.io/2017/12/14/Chocolate-Coconut-Cream-Mousse/</id>
-    <published>2017-12-13T13:15:41.000Z</published>
-    <updated>2018-04-02T05:54:14.915Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This one is an overnighter, so don’t wait until the day you want to serve it. Throw some cans of coconut milk in your fridge the night beforehand. &lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Desserts" scheme="http://ketocamerons.github.io/categories/Desserts/"/>
-    
-    
-      <category term="Chocolate" scheme="http://ketocamerons.github.io/tags/Chocolate/"/>
-    
-      <category term="Cocoa" scheme="http://ketocamerons.github.io/tags/Cocoa/"/>
-    
-      <category term="Dairy Free" scheme="http://ketocamerons.github.io/tags/Dairy-Free/"/>
-    
-      <category term="Coconut Milk" scheme="http://ketocamerons.github.io/tags/Coconut-Milk/"/>
     
   </entry>
   
