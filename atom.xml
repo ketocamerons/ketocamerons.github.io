@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ketocamerons.github.io/"/>
-  <updated>2018-08-05T01:00:12.950Z</updated>
+  <updated>2018-04-09T02:33:56.803Z</updated>
   <id>http://ketocamerons.github.io/</id>
   
   <author>
@@ -15,22 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Test Post</title>
-    <link href="http://ketocamerons.github.io/2018/08/05/Test-Post/"/>
-    <id>http://ketocamerons.github.io/2018/08/05/Test-Post/</id>
-    <published>2018-08-05T01:00:12.000Z</published>
-    <updated>2018-08-05T01:00:12.950Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Replace Me&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Lemon Cheesecake Fat Bombs</title>
@@ -105,9 +89,9 @@
     
       <category term="Soups" scheme="http://ketocamerons.github.io/categories/Soups/"/>
     
-      <category term="Slow Cooker" scheme="http://ketocamerons.github.io/categories/Slow-Cooker/"/>
-    
       <category term="Vegetables" scheme="http://ketocamerons.github.io/categories/Vegetables/"/>
+    
+      <category term="Slow Cooker" scheme="http://ketocamerons.github.io/categories/Slow-Cooker/"/>
     
     
       <category term="Cauliflower" scheme="http://ketocamerons.github.io/tags/Cauliflower/"/>
@@ -611,6 +595,32 @@
       <category term="Egg" scheme="http://ketocamerons.github.io/tags/Egg/"/>
     
       <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+    
+      <category term="Cheese" scheme="http://ketocamerons.github.io/tags/Cheese/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zucchini Fritters</title>
+    <link href="http://ketocamerons.github.io/2017/12/14/Zucchini-Fritters/"/>
+    <id>http://ketocamerons.github.io/2017/12/14/Zucchini-Fritters/</id>
+    <published>2017-12-13T20:50:40.000Z</published>
+    <updated>2018-04-02T05:54:14.918Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s hard not to eat the entire batch of these (and trust me, I’ve tried!). They’re great as a snack or a side to a main meal. The original recipe can be found &lt;a href=&quot;https://lowcarbyum.com/coconut-flour-zucchini-fritters-gluten-free/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt;.  &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Sides" scheme="http://ketocamerons.github.io/categories/Sides/"/>
+    
+      <category term="Snacks" scheme="http://ketocamerons.github.io/categories/Snacks/"/>
+    
+    
+      <category term="Coconut Flour" scheme="http://ketocamerons.github.io/tags/Coconut-Flour/"/>
+    
+      <category term="Zucchini" scheme="http://ketocamerons.github.io/tags/Zucchini/"/>
     
       <category term="Cheese" scheme="http://ketocamerons.github.io/tags/Cheese/"/>
     
